@@ -1,17 +1,36 @@
-# CONTRIBUTOR LICENSE AGREEMENT  
+# CONTRIBUTOR LICENSE AGREEMENT (CLA)
 
-By submitting a Pull Request or any contribution to this repository, you agree to the following:
+By submitting a contribution (Pull Request, commit, or other submission) to this repository, you agree to the following terms:
 
-1. **Grant of Rights**  
-   You grant PhantomInterface Collective a perpetual, worldwide, royalty-free, sublicensable, and transferable license to use, reproduce, modify, distribute, and publicly display your contribution, in whole or in part, in any medium or format.
+## 1. Grant of Rights  
+You grant **PhantomInterface Collective**:  
+- A **perpetual, irrevocable, worldwide, royalty-free** license to:  
+  - Use, reproduce, modify, distribute, and publicly perform/display your contribution.  
+  - **Sublicense** these rights to third parties (e.g., commercial licensees).  
+- **Exclusive copyright ownership** of your contribution, waiving all moral rights under Swiss Copyright Act (Art. 11 CopA) and EU Directive 2001/29/EC.  
 
-2. **Patent License**  
-   You hereby grant PhantomInterface Collective a perpetual, worldwide, royalty-free patent license under any patent claims you own or control that would necessarily be infringed by your contribution alone or by combination of your contribution with the Work.
+## 2. Patent License  
+If your contribution relies on or infringes any patents you own/control, you grant:  
+- A **perpetual, irrevocable, royalty-free** patent license to PhantomInterface Collective and its users.  
+- **No Patent Challenges**: You agree not to challenge PhantomInterface’s use of your contribution in court or patent offices.  
 
-3. **No Further Claims**  
-   You waive any moral rights and agree not to assert any claim against PhantomInterface Collective or its users related to your contribution.
+## 3. Compliance & Warranties  
+You warrant that:  
+- You own or have rights to submit the contribution.  
+- Your submission complies with all applicable laws (including [EXPORT_CONTROL.md](EXPORT_CONTROL.md)).  
+- You are **not employed by/affiliated with** entities on OFAC’s SDN List or EU embargoed lists.  
 
-4. **Signature**  
-   Your act of contributing (e.g., submitting a Pull Request, making a commit) constitutes your signature to this agreement.
+## 4. No Withdrawal  
+Contributions cannot be withdrawn once merged. PhantomInterface may remove content at its sole discretion.  
 
-Thank you for contributing!
+## 5. Governing Law & Jurisdiction  
+This CLA is governed by **Swiss law** (Art. 1–551 Code of Obligations). Disputes are resolved per [JURISDICTION.md](JURISDICTION.md).  
+
+## 6. Survival  
+Sections 1 (Grant), 2 (Patent), and 5 (Governing Law) survive termination.  
+
+---
+
+**By contributing**, you accept these terms. Violations may result in legal action under [LICENSE.md §5](LICENSE.md).  
+
+> **Note**: This CLA supplements but does not replace the [LICENSE.md](LICENSE.md) or [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
