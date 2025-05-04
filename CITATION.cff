@@ -1,23 +1,26 @@
 cff-version: 1.2.0
 message: |
-  "Using this work without proper citation violates its Non‑Commercial Attribution License (v1.0).
+  "Using this work without proper citation violates its Non‑Commercial Attribution License (v2.0).
   Commercial use requires a separate license. Contact societyaccelerationist2127299@proton.me."
-title: "Teeth That Grow Back: The 9‑Gate Protocol That Ends Dental Failure"
+title: "Teeth That Grow Back: The 9‑Gate Protocol That Ends Dental Failure"
 authors:
-  - name: "PhantomInterface"
+  - name: "PhantomInterface Collective"
+    alias: "phantominterface"
     email: "societyaccelerationist2127299@proton.me"
     orcid: "https://orcid.org/0009-0008-2855-2137"
+    website: "https://github.com/phantominterface/Teeth-That-Grow-Back-The-9-Gate-Protocol"
 date-released: 2025-04-23
-version: "1.0.0"
+version: "2.0.0"
 doi: "10.5281/zenodo.15336971"
-license: "CC-BY-NC-ND-4.0"
-license-url: "https://github.com/phantominterface/Teeth-That-Grow-Back-The-9-Gate-Protocol/blob/main/LICENSE.md"
-repository-code: "https://github.com/phantominterface/Teeth-That-Grow-Back-The-9-Gate-Protocol"
-url: "https://github.com/phantominterface/Teeth-That-Grow-Back-The-9-Gate-Protocol"
-abstract: "A 9‑phase protocol for biologically stable, proprioceptive dental regeneration. Resolves enamel irreversibility, immune microlensing, and post‑eruption drift via closed‑loop cybernetic oversight (Phase III digital twin)."
+license: "Other"
+repository: "https://github.com/phantominterface/Teeth-That-Grow-Back-The-9-Gate-Protocol"
+abstract: |
+  A 9‑phase protocol for biologically stable, proprioceptive dental regeneration.
+  Resolves enamel irreversibility, immune microlensing, and post‑eruption drift
+  via closed‑loop cybernetic oversight (Phase III digital twin).
 keywords:
   - "dental regeneration"
   - "cybernetic organ"
-  - "self-organized criticality"
+  - "self‑organized criticality"
   - "bioprinting"
-  - "non-commercial license"
+  - "non‑commercial license"
