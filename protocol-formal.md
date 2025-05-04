@@ -107,5 +107,4 @@ Any protocol that omits or fails these nine gates is technically obsolete as of 
 The lab era of dental regeneration ends **today**.  
 Welcome to routine biological replacement—teeth that grow, feel, adapt, and last.
 
-> *Note: Protocol stability relies on self-organized criticality (K ≈ 1). Deviations risk system collapse.*
-> *Criticality is sustained via patient-specific biosensors (see Phase III).*
+*Note: This protocol enforces self-organized criticality (K ≈ 1) to stabilize regeneration—a novel framework for dental applications. Deviations risk systemic collapse; criticality is dynamically maintained via Phase III biosensor integration.*
