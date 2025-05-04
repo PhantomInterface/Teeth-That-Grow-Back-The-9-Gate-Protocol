@@ -106,3 +106,5 @@ Publication of this file establishes priority.
 Any protocol that omits or fails these nine gates is technically obsolete as of this timestamp.  
 The lab era of dental regeneration ends **today**.  
 Welcome to routine biological replacement—teeth that grow, feel, adapt, and last.
+
+> *Note: Protocol stability relies on self-organized criticality (K ≈ 1). Deviations risk system collapse.*
