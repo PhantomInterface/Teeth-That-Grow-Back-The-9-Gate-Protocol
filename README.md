@@ -79,7 +79,3 @@ Do not attempt human application without formal ethics approval and regulatory c
 See [CONTRIBUTING.md] and sign the [CLA.md] before submitting pull requests.
 Commercial inquiries: societyaccelerationist2127299@proton.me
 
-**Next steps**  
-1. Commit this updated `README.md`.  
-2. Download your repo as a ZIP.  
-3. Use Zenodo’s **New version** flow to upload and publish Version 2.
