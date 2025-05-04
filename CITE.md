@@ -7,5 +7,5 @@
   year   = {2025},  
   url    = {https://github.com/phantominterface/Teeth-That-Grow-Back-The-9-Gate-Protocol},  
   version= {1.0.0},  
-  doi    = {10.5281/zenodo.15336595}  
+  doi    = {10.5281/zenodo.15336971}  
 }
