@@ -4,6 +4,7 @@ Non‑Commercial Attribution License v2.0 (see [LICENSE.md]).
 # The Teeth That Will Not Fail — Public Priority Release
 
 **Author · phantominterface** | **Date · 2025‑04‑23**
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15336971.svg)](https://doi.org/10.5281/zenodo.15336971)
 
 This repository contains two synchronized artifacts:  
 - `protocol-formal.md` — Full nine‑module regenerative‑dentistry protocol (scientific notation)  
@@ -40,7 +41,7 @@ Please cite version 1.0.0 as:
   author = {PhantomInterface Collective},
   title  = {Teeth That Grow Back: The 9‑Gate Protocol That Ends Dental Failure},
   year   = {2025},
-  doi    = {10.5281/zenodo.15336595},
+  doi    = {10.5281/zenodo.15336971},
   url    = {https://github.com/phantominterface/Teeth-That-Grow-Back-The-9-Gate-Protocol},
   version= {1.0.0}
 }
