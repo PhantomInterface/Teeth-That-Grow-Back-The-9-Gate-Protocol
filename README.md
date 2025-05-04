@@ -4,7 +4,7 @@ Non‑Commercial Attribution License v2.0 (see [LICENSE.md]).
 # The Teeth That Will Not Fail — Public Priority Release
 
 **Author · phantominterface** | **Date · 2025‑04‑23**
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15336971.svg)](https://doi.org/10.5281/zenodo.15336971)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15336594.svg)](https://doi.org/10.5281/zenodo.15336594)
 
 This repository contains two synchronized artifacts:  
 - `protocol-formal.md` — Full nine‑module regenerative‑dentistry protocol (scientific notation)  
