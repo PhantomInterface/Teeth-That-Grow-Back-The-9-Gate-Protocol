@@ -1,43 +1,75 @@
 # THE TEETH THAT WILL NOT FAIL  
 **Non‑Commercial Attribution License v2.0**  
-© 2025 PhantomInterface Collective
+**Effective Date:** April 23, 2025  
+**© 2025 PhantomInterface Collective**  
+
+---
 
 ## 1. Definitions  
-- **Work**: All text, data, protocols, and documentation in this repository.  
-- **Non‑Commercial Use**: Research, education, or personal use with no direct or indirect financial gain.  
-- **Commercial Use**: Any activity generating revenue, including product development, clinical services, consulting, or fundraising.  
-- **Derivative**: Any modification, translation, or adaptation of the Work.
+- **“Work”**: All text, data, protocols, diagrams, code, and documentation in this repository.  
+- **“Non‑Commercial Use”**: Use for research, education, or personal study **without direct or indirect financial benefit** (e.g., no product development, internal R&D at for‑profit entities, or incorporation into proprietary algorithms).  
+- **“Academic Research Exception”**: Non‑Commercial Use by accredited non‑profit educational or research institutions, regardless of funding source, is permitted.  
+- **“Commercial Use”**: Any activity intended to generate revenue or reduce costs, including product development, clinical services, consulting, fundraising, or use in proprietary ML/data systems.  
+- **“Derivative”**: Any modification, adaptation, translation, or transformation of the Work, **including use as training data** for machine‑learning models.  
+- **“Proprietary Algorithms”**: Any software, model, or system whose internal logic is not fully disclosed to end users.
+
+---
 
 ## 2. Grant of Rights  
-You may:  
-- **Reproduce, Share** the Work for Non‑Commercial Use only.  
-- **Adapt** the Work for Non‑Commercial Use only.  
+You may, under the terms below:  
+- **Reproduce** and **Distribute** the Work for **Non‑Commercial Use** (including the Academic Research Exception).  
+- **Adapt** or **Create Derivatives** of the Work for Non‑Commercial Use, provided you retain this license.  
 
 **Conditions**:  
-- Retain this license in all copies/substantial portions.  
-- Credit as:  
-  > “Derived from ‘The Teeth That Will Not Fail’ by PhantomInterface Collective (2025). [Repo URL or DOI].”  
-- Include the DOI or repository URL in any distribution.
+- Retain this license in all copies and substantial portions.  
+- Credit must read:  
+  > “Derived from ‘The Teeth That Will Not Fail’ by PhantomInterface Collective (2025), DOI: 10.5281/zenodo.15336594.”  
+- Include the DOI in both human‑readable documents and machine‑readable metadata.
+
+---
 
 ## 3. Commercial Use  
-- **Prohibited** without a separate license.  
-  To inquire: societyaccelerationist2127299@proton.me
+- **Prohibited** without a separate, written commercial license from PhantomInterface Collective (contact **societyaccelerationist2127299@proton.me**).  
+- **Reverse‑engineering** the Work, or using the Work to develop commercial products or integrate into proprietary algorithms, is explicitly forbidden.
 
-## 4. Restrictions  
-- **No Sublicensing**: Redistribution under different terms is banned.  
-- **No Trademark Use**: “The Teeth That Will Not Fail” and “PhantomInterface” are reserved.
+---
 
-## 5. Patents  
-Patent applications pending (see PATENTS.md). No patent license is granted.
+## 4. Additional Restrictions  
+- **No Sublicensing**: You may not redistribute the Work under any different terms.  
+- **No Trademark Use**: The names “The Teeth That Will Not Fail” and “PhantomInterface” are reserved (see `TRADEMARK.md`).  
+- **No Patent License**: This license does not grant any patent rights; all patent claims are reserved (see `PATENTS.md`).  
 
-## 6. Termination  
-This license **automatically terminates** if you violate its terms. Surviving clauses: patents, trademarks, disclaimer.
+---
 
-## 7. Disclaimer  
-The Work is provided “as‑is” without warranty. The authors are not liable for any damages arising from its use.
+## 5. Termination & Remedies  
+- **Automatic Termination**: All rights granted under this license terminate immediately upon any breach.  
+- **Survival**: Sections 4–9 survive termination.  
+- **Liquidated Damages**: In lieu of actual damages, violators agree to pay **€100,000 per infringement**, or **actual damages** if greater, as a genuine pre‑estimate of harm.
 
-## 8. Governing Law  
-Switzerland, excluding conflict‑of‑law principles.
+---
 
-## 9. Updates  
-Continued use implies acceptance of future versions.
+## 6. Disclaimer of Warranty & Liability  
+- **No Warranty**: The Work is provided “as‑is” without any express or implied warranty.  
+- **No Liability**: In no event shall the authors be liable for any damages, including lost profits, data loss, or any direct, indirect, incidental, or consequential damages.
+
+---
+
+## 7. Governing Law & Jurisdiction  
+- **Governing Law**: Swiss substantive law.  
+- **Venue**: Exclusive jurisdiction of the courts of Zürich, Switzerland.
+
+---
+
+## 8. Export Controls  
+- Export or re‑export of the Work may require authorization under Swiss/EU dual‑use regulations (EC 428/2009). See `EXPORT_CONTROL.md` for details.
+
+---
+
+## 9. General Provisions  
+- **Entire Agreement**: This license, together with any separate written agreements, constitutes the complete understanding between you and PhantomInterface Collective.  
+- **Severability**: If any provision is held invalid, the remainder shall remain in full force and effect.  
+- **Updates**: Continued use after 30 days following any published changes implies acceptance of the new terms.
+
+---
+
+**WARNING:** Unauthorized commercial exploitation of this Work may result in legal action under Swiss Unfair Competition laws, the EU Trade Secrets Directive, and other applicable statutes.  
