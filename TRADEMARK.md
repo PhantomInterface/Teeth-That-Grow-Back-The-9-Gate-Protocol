@@ -1,33 +1,64 @@
 # TRADEMARK NOTICE
 
-## Registered Trademarks  
-The following trademarks are owned and strictly reserved by **PhantomInterface Collective**:  
+**PhantomInterface Collective** asserts exclusive rights in the following trademarks, registered or claimed as of April 23, 2025:
 
 - **“The Teeth That Will Not Fail”®**  
+  - **Swiss Registration No.**: Pending  
+  - **EU Trademark No.**: Pending  
 - **“PhantomInterface”®**  
-- Associated logos, visual identities, and symbolic marks  
-
-## Permitted Use  
-**Non-commercial use** (as defined in [LICENSE.md](LICENSE.md)) requires:  
-- Clear attribution as *“™ PhantomInterface Collective”* adjacent to the mark.  
-- No alteration of logos or branding elements.  
-
-**Commercial use** (including branding, marketing, or products) requires **prior written permission**.  
-To request a license, contact: 📧 societyaccelerationist2127299@proton.me  
-
-## Restrictions  
-- **No Confusing Similarity**: Do not use these marks in a way that implies endorsement, affiliation, or commercial partnership.  
-- **No Genericization**: Do not use these marks as common nouns or verbs (e.g., “phantominterfacing”).  
-
-## Legal Recourse  
-Unauthorized use may result in:  
-- **Injunctions** under Swiss Trademark Act (Art. 15–18)  
-- **Damages** (up to 3× profits from infringing activities)  
-- **Criminal Prosecution** for counterfeiting (Art. 151 Swiss Criminal Code)  
-
-## Governing Law  
-This notice is governed by Swiss law. Jurisdiction lies with the courts of Zürich (see [JURISDICTION.md](JURISDICTION.md)).  
+  - **Swiss Registration No.**: Pending  
+  - **EU Trademark No.**: Pending  
+- All associated logos, symbols, and stylized designs
 
 ---
 
-**WARNING**: Exporting counterfeit goods bearing these marks may violate [EXPORT_CONTROL.md](EXPORT_CONTROL.md).
+## 1. Jurisdiction & Registration
+
+- **Switzerland**: Trademark Protection Act (TmPA, SR 232.11)  
+- **European Union**: EU Trademark Regulation (Reg (EU) 2017/1001)  
+- **Common Law Rights**: Asserted in jurisdictions recognizing unregistered marks (e.g., U.S., Canada, Australia) through public use since April 2025  
+
+---
+
+## 2. Permitted Uses
+
+You may use these marks **without a license** if you:
+
+- Quote the mark in an academic/news article **for reference** (nominative fair use)  
+- Refer to the protocol in scholarly citations/reviews, including proper attribution + DOI  
+- Display **unaltered screenshots** of the GitHub repo **only** for illustrative purposes  
+
+---
+
+## 3. Prohibited Uses
+
+All other uses require **prior written permission**. Examples include:
+
+- **Commercial Branding**: Products, services, or software features  
+- **Promotion**: Marketing materials, websites, packaging  
+- **Derivative Logos**: Mimicking logos/icons/fonts  
+- **Domain Names**: “phantominterface…”, “teeththatwillnotfail…”  
+
+---
+
+## 4. Enforcement & Remedies
+
+Unauthorized use may result in:
+
+1. **Cease & Desist** under Swiss/EU law  
+2. **Injunctions** to halt use  
+3. **Damages**: Up to CHF 100,000 or €100,000 (whichever is greater)  
+4. **Takedowns**: GitHub/ICANN requests ([DMCA](https://docs.github.com/en/site-policy/content-removal-policies/dmca-takedown-policy), [URS](https://urs.icann.org/))  
+
+---
+
+## 5. Licensing & Inquiries
+
+Contact: 📧 societyaccelerationist2127299@proton.me  
+**Subject**: “Trademark License Request: [Mark Name]”  
+**Include**: Use case, duration, jurisdiction, mockups  
+
+---
+
+> **Note:** Conflicts with other policies are resolved by the most restrictive term.  
+> **Governing Law**: [JURISDICTION.md](JURISDICTION.md)
