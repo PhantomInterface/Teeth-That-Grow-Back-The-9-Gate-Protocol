@@ -34,16 +34,16 @@ A 9‑phase protocol for biologically stable, proprioceptive dental regeneration
 
 ## 🔖 Citation
 
-Please cite version 1.0.0 as:
+Please cite version 3.0.0 as:
 
 ```bibtex
 @software{PhantomInterface_Teeth_2025,
   author = {PhantomInterface Collective},
   title  = {Teeth That Grow Back: The 9‑Gate Protocol That Ends Dental Failure},
   year   = {2025},
-  doi    = {10.5281/zenodo.15336971},
+  doi    = {10.5281/zenodo.15336594},
   url    = {https://github.com/phantominterface/Teeth-That-Grow-Back-The-9-Gate-Protocol},
-  version= {1.0.0}
+  version= {3.0.0}
 }
 
 
