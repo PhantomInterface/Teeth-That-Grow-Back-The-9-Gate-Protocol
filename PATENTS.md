@@ -1,68 +1,100 @@
-# INNOVATION PROTECTION NOTICE
-
-PhantomInterface Collective hereby asserts layered legal protections over its dental‑regeneration innovations. This notice combines defensive publication, trade‑secret, copyright, and unfair‑competition safeguards to ensure all commercial or derivative use flows through the Collective.
-
----
-
-## 1. Defensive Publication & Prior Art
-
-These methods were first publicly disclosed on **April 23, 2025** via:  
-- **GitHub**: https://github.com/phantominterface/Teeth-That-Grow-Back-The-9-Gate-Protocol  
-- **YouTube**: https://youtu.be/SaER7-QNF-k  
-
-A Zenodo DOI ([10.5281/zenodo.15336594](https://doi.org/10.5281/zenodo.15336594)) was later added on May 4, 2025 for formal citation and archival continuity.
-
-These disclosures serve as absolute prior art under:  
-- **U.S. Patent Law** (35 U.S.C. § 102(b))  
-- **European Patent Convention** (Art. 54 EPC)  
-
-Any subsequent patent application claiming these methods should be invalid for lack of novelty.
+# PATENTS & PROPRIETARY RIGHTS POLICY v2.1  
+_Last updated 2025‑05‑10_
 
 ---
 
-## 2. Trade‑Secret & Confidentiality
-
-Until and unless formal patent filings occur, the following core innovations are also protected as trade secrets under:  
-- **Swiss Unfair Competition Act** (Art. 162 UCA)  
-- **EU Trade Secrets Directive** (2016/943)  
-
-### Covered Innovations
-
-1. **Closed‑Loop Regeneration via Self‑Organized Criticality**  
-   - Mechanism: Phase III real‑time biosensor loop enforcing K ≈ 1 dynamics.  
-2. **Caspase‑9 Kill‑Switch Vascular Safeguard**  
-   - Mechanism: Engineered safety switch in endothelial progenitors to prevent uncontrolled angiogenesis.
-
-By accessing this repository, you agree **not** to:  
-- Reverse‑engineer these systems for commercial gain  
-- Disclose or distribute technical details without written consent  
+## 0 Purpose & Scope  
+This notice secures the **PhantomInterface Collective (“PIC”)** dental‑regeneration
+innovations through a layered IP strategy that combines **defensive publication,
+trade‑secret protection, copyright, patents, and unfair‑competition law**.
+Commercial actors must obtain a separate, written licence.
 
 ---
 
-## 3. Copyright & Licensing
+## 1 Defensive Publication & Prior Art  
 
-All text, protocols, diagrams, and code in this repository are © 2025 PhantomInterface Collective and licensed under the **Non‑Commercial Attribution License v2.0**.  
+| Disclosure Channel | Timestamp | Persistent ID |
+|--------------------|-----------|---------------|
+| GitHub Repository | 2025‑04‑23 | <https://github.com/phatominterfac/teeth-that-will-not-fail> |
+| YouTube Timestamp Demo | 2025‑04‑23 | <https://youtu.be/SaER7-QNF-k> |
+| Zenodo Archive | 2025‑05‑04 | DOI 10.5281/zenodo.15336594 |
 
-- Commercial use is prohibited without explicit agreement.  
+These disclosures constitute **absolute prior art** under 35 U.S.C. § 102(b),
+Art 54 EPC, and equivalent statutes worldwide.  Any later patent application
+covering identical or obvious variants of these methods **lacks novelty** and
+is subject to invalidation.
+
+---
+
+## 2 Trade‑Secret Portfolio (Confidential)  
+
+Until formal patent filings are lodged, PIC treats the following elements as
+**trade secrets** under the Swiss UCA Art 162 and EU Directive 2016/943:
+
+| Code‑Name | Confidential Mechanism / Rationale |
+|-----------|------------------------------------|
+| **CR‑SOC Loop** | Real‑time biosensor lattice enforcing **K ≈ 1** criticality to stabilise regenerative dynamics (Phase III). |
+| **C9‑VASC‑Guard** | Inducible caspase‑9 switch in engineered endothelial progenitors to abort malignant angiogenesis. |
+
+By accessing this repository you agree **not** to:  
+1. Reverse‑engineer or de‑compile these mechanisms for commercial gain.  
+2. Disclose technical details without PIC’s written consent.  
+3. File patent applications covering substantially similar technology.  
+
+Breaching this section triggers **liquidated damages** per `LICENSE.md § 6`
+(€250 000 intentional / €50 000 negligent) plus injunctive relief.
+
+---
+
+## 3 Copyright & Licence  
+
+All text, code, diagrams, and CAD assets are © 2025 PhantomInterface Collective
+and released under the **PhantomInterface Non‑Commercial Attribution Licence v2.1**.  
+- **Commercial or military use is prohibited** without a separate agreement.  
 - Attribution is mandatory for any non‑commercial derivative works.  
-
-Refer to [`LICENSE.md`](LICENSE.md) for full terms.
-
----
-
-## 4. Legal Remedies
-
-Unauthorized exploitation may incur:  
-- **Injunctions & compensatory damages** (Swiss UCA; EU Directive)  
-- **Criminal penalties** for willful misappropriation (Swiss Criminal Code Art. 273)  
-- **Attorneys’ fees & expert costs** under applicable unfair‑competition statutes  
+See `LICENSE.md` for binding terms.
 
 ---
 
-## 5. Jurisdiction & Venue
+## 4 Patent‑Filing Strategy & No‑Challenge Clause  
 
-All disputes shall be governed by the laws of **Switzerland** and adjudicated exclusively in the competent Swiss courts. See [`JURISDICTION.md`](JURISDICTION.md) for details.
+PIC reserves the right to pursue **offensive or defensive patent protection**
+for any element of this technology at its discretion.
+
+Contributors and downstream users **agree not to challenge** (or assist any
+third party in challenging) the validity or enforceability of any current or
+future PIC patent related to this project (see `CLA.md § 2`).
 
 ---
 
-> **WARNING:** Export or re‑export of these technologies may require authorization under Swiss/EU dual‑use regulations (EC 428/2009).  
+## 5 Enforcement & Remedies  
+
+| Violation | Primary Remedy | Statutory Basis |
+|-----------|----------------|-----------------|
+| Trade‑secret misappropriation | Injunction + compensatory & punitive damages | Swiss SCC Art 273; EU Directive 2016/943 |
+| Patented‑method infringement | Injunction + disgorgement + damages | Swiss PatA Art 66; EPC Art 64 |
+| Unauthorised commercial use | Liquidated damages (€250 k / €50 k) + account takedown | `LICENSE.md § 6`; DMCA § 512 |
+| Patent or IP challenge by contributor | Automatic CLA breach + injunctive relief | `CLA.md § 2` |
+
+Prevailing party is entitled to **attorneys’ fees and expert costs**.
+
+---
+
+## 6 Jurisdiction & Venue  
+
+All disputes are governed by substantive **Swiss law** and adjudicated
+exclusively in the **Zürich Commercial Court** (first instance) per
+[`JURISDICTION.md`](./JURISDICTION.md).
+
+---
+
+## 7 Export‑Control Warning  
+
+Export or re‑export of these technologies may require authorisation under
+Swiss / EU dual‑use regulations (e.g., EC Reg 2021/821).  See
+[`EXPORT_CONTROL.md`](./EXPORT_CONTROL.md).
+
+---
+
+_For commercial licensing or legal queries, contact  
+📧 societyaccelerationist2127299@proton.me (PGP available)._  
