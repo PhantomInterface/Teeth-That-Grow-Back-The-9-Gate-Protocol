@@ -1,36 +1,69 @@
-# CONTRIBUTOR LICENSE AGREEMENT (CLA)
+# CONTRIBUTOR LICENSE AGREEMENT (“CLA”) v2.1  
+_Last updated 2025‑05‑10_
 
-By submitting a contribution (Pull Request, commit, or other submission) to this repository, you agree to the following terms:
-
-## 1. Grant of Rights  
-You grant **PhantomInterface Collective**:  
-- A **perpetual, irrevocable, worldwide, royalty-free** license to:  
-  - Use, reproduce, modify, distribute, and publicly perform/display your contribution.  
-  - **Sublicense** these rights to third parties (e.g., commercial licensees).  
-- **Exclusive copyright ownership** of your contribution, waiving all moral rights under Swiss Copyright Act (Art. 11 CopA) and EU Directive 2001/29/EC.  
-
-## 2. Patent License  
-If your contribution relies on or infringes any patents you own/control, you grant:  
-- A **perpetual, irrevocable, royalty-free** patent license to PhantomInterface Collective and its users.  
-- **No Patent Challenges**: You agree not to challenge PhantomInterface’s use of your contribution in court or patent offices.  
-
-## 3. Compliance & Warranties  
-You warrant that:  
-- You own or have rights to submit the contribution.  
-- Your submission complies with all applicable laws (including [EXPORT_CONTROL.md](EXPORT_CONTROL.md)).  
-- You are **not employed by/affiliated with** entities on OFAC’s SDN List or EU embargoed lists.  
-
-## 4. No Withdrawal  
-Contributions cannot be withdrawn once merged. PhantomInterface may remove content at its sole discretion.  
-
-## 5. Governing Law & Jurisdiction  
-This CLA is governed by **Swiss law** (Art. 1–551 Code of Obligations). Disputes are resolved per [JURISDICTION.md](JURISDICTION.md).  
-
-## 6. Survival  
-Sections 1 (Grant), 2 (Patent), and 5 (Governing Law) survive termination.  
+> **Plain‑Language Snapshot**  
+> • You keep your name on your code, but you give us broad rights to use it.  
+> • All contributions inherit our non‑commercial licence and export rules.  
+> • Zürich courts, Swiss law.  No patent wars.
 
 ---
 
-**By contributing**, you accept these terms. Violations may result in legal action under [LICENSE.md §5](LICENSE.md).  
+## 1 Grant of Rights & Ownership  
 
-> **Note**: This CLA supplements but does not replace the [LICENSE.md](LICENSE.md) or [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+By submitting a Pull Request, patch, issue, or any other content (“**Contribution**”) to this repository, you **irrevocably**:
+
+1. **Assign** to **PhantomInterface Collective (“PIC”)** exclusive copyright in the Contribution, to the extent allowed by law, while retaining attribution.  
+2. Grant PIC a **world‑wide, perpetual, royalty‑free licence** to use, copy, modify, distribute, sublicense, and publicly perform/display the Contribution.  
+3. **Waive all moral rights** (Swiss CopA Art 28 § 2) or, where waiver is not permitted, grant PIC an unlimited, royalty‑free right to exercise such rights.  
+
+Your Contribution automatically inherits the **PhantomInterface Non‑Commercial Attribution Licence v2.1** unless PIC explicitly re‑licences it under compatible or more restrictive terms.
+
+---
+
+## 2 Patent Licence & No‑Challenge Clause  
+
+If the Contribution or its combination with the Project practices any patent you own or control, you hereby grant PIC and all downstream non‑commercial users a **perpetual, worldwide, royalty‑free patent licence** to make, use, sell (non‑commercial), import, and otherwise run the Contribution.
+
+You **agree not to challenge** (or assist a third party in challenging) the validity or enforceability of any PIC patent or the lawful use of your Contribution by PIC.
+
+---
+
+## 3 Warranties & Compliance  
+
+You warrant that:
+
+1. You are the **sole author** or have the legal right to submit the Contribution.  
+2. The Contribution **does not violate** any third‑party rights or export‑control laws; you have reviewed `EXPORT_CONTROL.md`.  
+3. You are **not** (a) listed on OFAC SDN, EU Consolidated Sanctions, or SECO embargo lists; or (b) submitting on behalf of such an entity.  
+4. The code is **original** or clearly identifies any 3‑party components under compatible licences (append to `THIRD_PARTY_LICENSES.md`).  
+
+---
+
+## 4 Irrevocability & Removal  
+
+- **No Withdrawal:** Once a Contribution is merged, the rights granted and assignments made are **irrevocable**.  
+- **Project Discretion:** PIC may accept, modify, or remove a Contribution at any time and for any reason.
+
+---
+
+## 5 Governing Law & Venue  
+
+This CLA is governed by substantive **Swiss law** (Swiss Code of Obligations, Art 1–551).  
+All disputes follow the procedures and exclusive venue set out in [`JURISDICTION.md`](./JURISDICTION.md) (Zürich Commercial Court, first instance).
+
+---
+
+## 6 Survival  
+
+Sections 1 (Grant of Rights), 2 (Patent Licence), 4 (Irrevocability), and 5 (Governing Law) survive termination or project archival.
+
+---
+
+## 7 Acceptance  
+
+Submitting the Contribution through GitHub (or any PIC‑approved channel) constitutes your **electronic signature** and acceptance of this CLA.  
+Violation may trigger liquidated damages per [`LICENSE.md` § 6].
+
+---
+
+_Thank you for advancing **The Teeth That Will Not Fail** while respecting its non‑commercial, open‑research ecosystem._
