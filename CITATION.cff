@@ -1,27 +1,50 @@
+# CITATION.cff — authoritative citation metadata
 cff-version: 1.2.0
+
 message: |
-  Using this work without proper citation violates its Non‑Commercial Attribution License (v2.0).
-  Commercial use requires a separate license. Contact societyaccelerationist2127299@proton.me.
-title: "Teeth That Grow Back: The 9‑Gate Protocol That Ends Dental Failure"
-authors:
-  - name: "PhantomInterface Collective"
-    alias: "phantominterface"
-    email: "societyaccelerationist2127299@proton.me"
-    orcid: "https://orcid.org/0009-0008-2855-2137"
-    website: "https://github.com/phantominterface/Teeth-That-Grow-Back-The-9-Gate-Protocol"
-date-released: "2025-04-23"
-version: "2.0.0"
-doi: "10.5281/zenodo.15336594"
-license: "Other"
-license-url: "https://github.com/phantominterface/Teeth-That-Grow-Back-The-9-Gate-Protocol/blob/main/LICENSE.md"
-repository: "https://github.com/phantominterface/Teeth-That-Grow-Back-The-9-Gate-Protocol"
+  Please cite this work when used in academic or non‑commercial research.
+  Commercial or military use is forbidden without a separate licence from
+  PhantomInterface Collective (see LICENSE.md).  Contact:
+  societyaccelerationist2127299@proton.me (PGP on request).
+
+title: "The Teeth That Will Not Fail: The Nine‑Gate Regenerative Protocol"
+version: "3.1.0"
+doi: 10.5281/zenodo.15336594
+date-released: 2025-04-23
+url: https://github.com/phatominterfac/teeth-that-will-not-fail
 abstract: |
-  A 9‑phase protocol for biologically stable, proprioceptive dental regeneration.
-  Resolves enamel irreversibility, immune microlensing, and post‑eruption drift
-  via closed‑loop cybernetic oversight (Phase III digital twin).
+  A rigorously engineered, nine‑phase protocol for proprioceptive, biologically
+  stable tooth regeneration.  Combines dynamic biointegration, stem‑cell‑driven
+  adaptation, and a Phase III digital‑twin AI to resolve enamel irreversibility,
+  immune microlensing, and post‑eruption drift.
+
+authors:
+  - family-names: "PhantomInterface"
+    given-names: "Collective"
+    name: "PhantomInterface Collective"
+    email: societyaccelerationist2127299@proton.me
+    orcid: "0009-0008-2855-2137"
+    affiliation: "Independent R&D Consortium"
+
 keywords:
-  - "dental regeneration"
-  - "cybernetic organ"
-  - "self‑organized criticality"
-  - "bioprinting"
-  - "non‑commercial license"
+  - dental regeneration
+  - dynamic biointegration
+  - digital‑twin AI
+  - self‑organised criticality
+  - non‑commercial licence
+
+license: "LicenseRef-PI-NC-A-2.1"        # SPDX custom identifier
+license-url: https://github.com/phatominterfac/teeth-that-will-not-fail/blob/main/LICENSE.md
+
+repository: "https://github.com/phatominterfac/teeth-that-will-not-fail"
+type: software
+
+preferred-citation:
+  authors:
+    - family-names: "PhantomInterface"
+      given-names: "Collective"
+  title: "The Teeth That Will Not Fail: The Nine‑Gate Regenerative Protocol"
+  version: "3.1.0"
+  year: 2025
+  doi: 10.5281/zenodo.15336594
+  url: https://github.com/phatominterfac/teeth-that-will-not-fail
