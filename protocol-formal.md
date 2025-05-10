@@ -1,62 +1,69 @@
 <!-- ========================================================= -->
-# Teeth That Will Not Fail — Criticality-Locked Regeneration  
-**Version 2.0 — 2025-05-10**  
-© 2025 phantominterface. Licensed for non-commercial use under the Non-Commercial Attribution License v1.0.
+# Teeth That Will Not Fail — Criticality‑Locked Regeneration  
+**Version 2.0 — 2025‑05‑10**  
+© 2025 phantominterface. Licensed for non‑commercial use under the Non‑Commercial Attribution License v1.0.
 
 ---
 
-## Quick Changelog
-- Integrated systemic endocrine regulation (Gate 7) and oral microbiome stabilization (Gate 8).  
-- Merged vascular and neural gates into **Gate 5 Neuro-Vascular Reconnexion**.  
-- Enhanced digital twin with systemic feedback (7 sensor streams).  
-- *v1.0 is archived below for reference.*
+## Quick Changelog
+- Added systemic endocrine regulation (**Gate 7 Anabolic Priming**) and oral microbiome stabilization (**Gate 8 Biofilm Recode**).  
+- Merged vascular and neural collapse points into **Gate 5 Neuro‑Vascular Reconnexion**.  
+- Digital twin upgraded with seven systemic sensor streams.  
+- *Version 1.0 remains archived below for reference.*
 
 ---
 
-## **v2.0 Protocol**  
-••• ## Version 2.0 (2025-05-10) Changelog:
-- Integrated systemic endocrine regulation (Gate 7) and oral microbiome stabilization (Gate 8).
-- Merged vascular and neural gates into "Neuro-Vascular Reconnexion" (Gate 5).
-- Enhanced digital twin with systemic feedback for real-time criticality maintenance.
-- Version 1.0 is archived for historical reference.
+## **v2.0 Protocol**
 
-Criticality‑Locked Regeneration v2.0
-Changelog 2025‑05‑10: Adds anabolic‑endocrine gate, ECM soft‑reset, and biofilm pH control; merges overlapping vascular & neural gates; digital twin upgraded to full systemic feed.
+### Gate 1 · Morphogen + Enamel Reset  
+Anti‑USAG‑1 mAb (10 mg kg⁻¹ i.v. × 2) + anti‑sclerostin; photo‑hydrogel with DE‑SCs; WNT3a 4 Hz / BMP4 2 Hz LEDs; EDTA micro‑etch + amelogenin‑peptide gel.  
+**Day 14 KPI:** > 150 µm prism enamel; USAG‑1 serum < 2 ng mL⁻¹.
 
-	1.	Gate 1 Morphogen + Enamel Reset
-   Anti‑USAG‑1 mAb (10 mg/kg i.v. × 2), anti‑sclerostin, photo‑hydrogel with DE‑SCs, WNT3a 4 Hz / BMP4 2 Hz LEDs, EDTA micro‑etch + amelogenin‑peptide gel.
-   Day 14 KPI: >150 µm prism enamel, USAG‑1 serum <2 ng/mL.
-	2.	Gate 2 Stem‑Cycle Synchronisation
-   Lamina‑mimetic scaffold seeded with iPSC tooth buds, perfusion bioreactor shear matched to jaw‑motion sensor (YAP/TAZ 0.8 Hz).
-   KPI: cusp root angle ≤ 5°, mitotic index crest = mesenchyme ± 10 %.
-	3.	Gate 3 ECM Plasticity Window
-   0.5 M EDTA micro‑jet (90 s) + amelogenin‑mineral gel to lower basement modulus from 20 GPa→5 GPa; θ drop ≥ 25 %.
-   KPI: dye‑diffusion length doubles within 6 h.
-	4.	Gate 4 Periodontal Load Coupling
-   PVDF/PLLA piezo mesh + SPIONs (±5 Hz, 20 mT, 21 d) after 72 h socket‑unload splint.
-   KPI: PDL width 150 ± 20 µm; Sharpey fibres 75 ± 5°; bite force ≥ 500 N @ 90 d.
-	5.	Gate 5 Neuro‑Vascular Reconnexion
-   Ta/whitlockite angiogenic membrane + VEGF/NGF fiber; intrapulpal corridor Ø 150 µm with aligned collagen + GDNF/BMP‑7 nanoparticles.
-   KPI: pulp perfusion 12–15 mL·min⁻¹·100 g⁻¹; trigeminal latency < 6 ms.
-	6.	Gate 6 Immune Microlensing 2.0
-   Decellularised ECM sleeve + PLGA IL‑10:IL‑4 (4:1) 7‑day; Resolvin‑E1 liposomes 1 µg site⁻¹ (d0–d7).
-   KPI: CD206⁺/CD86⁻ ≥ 70 % @ d7; crevicular TNF‑α <50 pg/mL @ d28.
-	7.	Gate 7 Anabolic Priming (Epigenetic + Endocrine)
-   HDAC‑i micro‑pulse (valproate 0.5 mM × 6 h) or dCas9‑TET1 editing at DSPP; PTH (1‑34) 20 µg s.c. qd × 14 d with vit‑D₃ titration.
-   KPI: serum Ca²⁺ 2.25 ± 0.05 mM; P1NP ↑ >25 %; Dspp demethylation >30 %.
-	8.	Gate 8 Biofilm Recode
-   Bifido/Prevotella synbiotic rinse (10⁸ CFU/mL) + arginine/glycine buffer, bid × 60 d.
-   KPI: salivary pH 6.8–7.2; S. mutans load ↓ >90 %.
-	9.	Gate 9 Continuous Oversight 2.0
-   Physics‑informed digital twin now ingests 7 sensor streams (mech‑strain, pO₂, pH, cytokine, endocrine, microbiome, Ca²⁺ dynamics). Control layer retunes LEDs, magnetic field, PBM, PTH bursts in real time to keep ‖I–W′‖₂ < N⁻¹ᐟ².
-   Fail‑fast triggers: Λ > 0.04, ΔΦ̄ > 0, Ca²⁺ ± 0.1 mM, salivary pH < 6.3 for 24 h.
+### Gate 2 · Stem‑Cycle Synchronisation  
+Lamina‑mimetic scaffold seeded with iPSC tooth buds; perfusion bioreactor shear matched to jaw‑motion sensor (YAP/TAZ 0.8 Hz).  
+**KPI:** cusp‑root angle ≤ 5°; mitotic‑index crest = mesenchyme ± 10 %.
 
+### Gate 3 · ECM Plasticity Window  
+0.5 M EDTA micro‑jet (90 s) + amelogenin‑mineral gel to lower basement modulus 20 → 5 GPa; θ drop ≥ 25 %.  
+**KPI:** dye‑diffusion length doubles within 6 h.
 
-Version 2.0 extends criticality control to systemic endocrine and microbiome fields; any protocol lacking these updates is deprecated.
- •••  
-*(Gates 1 through 9 with KPIs, exactly as in your new version.)*
+### Gate 4 · Periodontal Load Coupling  
+PVDF/PLLA piezo mesh + SPIONs (± 5 Hz, 20 mT, 21 d) after 72 h socket‑unload splint.  
+**KPI:** PDL width 150 ± 20 µm; Sharpey fibres 75 ± 5°; bite force ≥ 500 N @ 90 d.
+
+### Gate 5 · Neuro‑Vascular Reconnexion  
+Ta/whitlockite angiogenic membrane + VEGF/NGF fibre; intrapulpal corridor Ø 150 µm with aligned collagen + GDNF/BMP‑7 nanoparticles.  
+**KPI:** pulp perfusion 12–15 mL min⁻¹ 100 g⁻¹; trigeminal latency < 6 ms.
+
+### Gate 6 · Immune Microlensing 2.0  
+Decellularised ECM sleeve + PLGA IL‑10:IL‑4 (4:1) 7‑day; Resolvin‑E1 liposomes 1 µg site⁻¹ (d0–d7).  
+**KPI:** CD206⁺/CD86⁻ ≥ 70 % @ d7; crevicular TNF‑α < 50 pg mL⁻¹ @ d28.
+
+### Gate 7 · Anabolic Priming (Epigenetic + Endocrine)  
+HDAC‑i micro‑pulse (valproate 0.5 mM × 6 h) or dCas9‑TET1 at **DSPP**; PTH (1‑34) 20 µg s.c. qd × 14 d with vit‑D₃ titration.  
+**KPI:** serum Ca²⁺ 2.25 ± 0.05 mM; P1NP ↑ > 25 %; **Dspp** demethylation > 30 %.
+
+### Gate 8 · Biofilm Recode  
+Bifido/Prevotella synbiotic rinse (10⁸ CFU mL⁻¹) + arginine/glycine buffer, bid × 60 d.  
+**KPI:** salivary pH 6.8–7.2; *S. mutans* load ↓ > 90 %.
+
+### Gate 9 · Continuous Oversight 2.0  
+Physics‑informed digital twin ingests seven sensor streams (mech‑strain, pO₂, pH, cytokine, endocrine, microbiome, Ca²⁺). Control layer retunes LEDs, magnetic field, PBM, PTH bursts in real‑time to keep ‖I – W′‖₂ < N⁻¹ᐟ².  
+**Fail‑fast triggers:** Λ > 0.04; ΔΦ̄ > 0; Ca²⁺ ± 0.1 mM; salivary pH < 6.3 for 24 h.
+
+> **Version 2.0 extends criticality control to systemic endocrine and microbiome fields; any protocol lacking these updates is deprecated.**
 
 ---
+
+## **ARCHIVED v1.0 Protocol** (2025‑04‑23)  
+*(Retained for historical reference; deprecated for new work.)*  
+
+### Phase I — The Original Five Failures
+1 Enamel Irreversibility  ••• *(full v1.0 content remains unchanged below)* …
+
+<!-- keep the entire v1.0 text exactly as you already pasted it -->
+<!-- ========================================================= -->
+
 
 ## **ARCHIVED v1.0 Protocol** (2025-04-23)  
 *Retained for historical reference; deprecated for new work.*  
