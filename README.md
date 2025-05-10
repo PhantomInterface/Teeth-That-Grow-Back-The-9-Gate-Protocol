@@ -1,67 +1,57 @@
 # 🦷 The Teeth That Will Not Fail  
 **Nine‑Gate Regenerative Protocol v3.1.0**  
 © 2025 PhantomInterface Collective | DOI [10.5281/zenodo.15336594](https://doi.org/10.5281/zenodo.15336594)  
-Licence → **PhantomInterface Non‑Commercial Attribution v2.1** (`LICENSE.md`)
+Licence → **PhantomInterface Non‑Commercial Attribution v2.1** (`LICENSE.md`)
 
 ---
 
 ## 1 │ Project Snapshot
-A rigorously engineered, **nine‑phase protocol** for proprioceptive, biologically stable tooth regeneration.  
-Combines SOC‑based tissue engineering, CRISPR stem‑cell scaffolding, and a **Phase III digital‑twin AI** to close the loop on enamel irreversibility, immune microlensing, and post‑eruption drift.
+A nine‑phase protocol for **proprioceptive, biologically stable tooth regeneration**.  
+Built on **dynamic biointegration**, **stem‑cell‑driven adaptation**, and a **Phase III digital‑twin AI** that self‑corrects micro‑instabilities in real time.  
+Outputs: hardened enamel re‑mineralisation, immune stealth, and post‑eruption positional fidelity—without graft rejection or drift.
 
-> **Read first:** This repository is released **for non‑commercial, academic research only**.  
-> Commercial, military, or proprietary AI use is prohibited without a separate licence (see `NOTICE.md`).
+> **Non‑commercial academic use only.**  
+> Commercial, military, or proprietary‑AI applications require a separate licence (see `NOTICE.md`).
 
 ---
 
-## 2 │ Quick Start
+## 2 │ Getting Started (60 s)
 
-| Step | Command / Action | Outcome |
-|------|------------------|---------|
-| **Clone** | `git clone https://github.com/phatominterfac/teeth-that-will-not-fail.git` | Local copy of the protocol |
-| **Read** | `protocol-formal.md` | Full math, reagents & parameters |
-| **Verify** | Gate‑by‑gate checklist inside `protocol-formal.md` | SEM / µCT / telemetry validation |
-| **Document** | Open a PR with data or optimisations | Community review & merge |
+| Step | Command / Action | Result |
+|------|------------------|--------|
+| **Clone** | `git clone https://github.com/phatominterfac/teeth-that-will-not-fail.git` | Repo on your machine |
+| **Read** | `protocol-formal.md` | Full lab‑grade instructions & parameters |
+| **Validate** | Gate‑by‑gate checklist inside the protocol | Confirm phase integrity |
+| **Contribute** | Open a pull request with data or optimisations | Community review |
 
-**Prerequisites**
-
-- BSL‑2+ molecular‑biology suite  
-- 3‑D bioprinter (≤ 10 µm)  
-- µCT, electrophysiology, perfusion rigs  
-- GPU workstation for AI digital‑twin (Phase III)
+Minimum lab profile: BSL‑2+ wet bench, high‑precision bioprinter (≈ 10 µm), µCT & electrophys rigs, GPU node for the digital twin.
 
 ---
 
 ## 3 │ Repository Map
 
-| File | Purpose |
-|------|---------|
-| `protocol-formal.md` | Mathematical & lab‑grade protocol (all nine gates). |
-| `monologue-spoken.md` | Spoken‑word narrative for accessibility. |
-| `OVERVIEW.md` | Lay‑level technical summary. |
-| `NOTICE.md` | 60‑second legal & usage snapshot. |
-| `LICENSE.md` | PI‑NC‑A 2.1 full terms. |
-| `EXPORT_CONTROL.md` | Swiss / EU / US dual‑use compliance. |
-| `JURISDICTION.md` | Governing law = Swiss; venue = Zürich Commercial Court. |
-| `TRADEMARK.md` | Mark reservation & anti‑dilution policy. |
-| `PATENTS.md` | Defensive publication & patent‑pending notice. |
-| `SECURITY.md` | Responsible‑disclosure rules (PGP required). |
-| `CONTRIBUTING.md` + `CLA.md` | Contribution workflow & legal sign‑off. |
-| `CODE_OF_CONDUCT.md` | Community standards. |
-| `CITATION.cff` / `CITE.md` | Machine‑ & human‑readable citation info. |
+| File / Folder | Purpose |
+|---------------|---------|
+| `protocol-formal.md` | Lab‑grade protocol (nine gates). |
+| `monologue-spoken.md` | Spoken‑word narrative (accessibility). |
+| `OVERVIEW.md` | Plain‑English technical synopsis. |
+| `NOTICE.md` | One‑minute legal snapshot. |
+| **Legal / Compliance** | `LICENSE.md` · `EXPORT_CONTROL.md` · `JURISDICTION.md` · `TRADEMARK.md` · `PATENTS.md` |
+| **Governance** | `CONTRIBUTING.md` · `CLA.md` · `CODE_OF_CONDUCT.md` · `SECURITY.md` |
+| **Citation** | `CITATION.cff` · `CITE.md` |
 
 ---
 
 ## 4 │ Videos
 
-| Release | Date | Licence | Link |
+| Version | Date | Licence | Link |
 |---------|------|---------|------|
 | Timestamp Demo | 2025‑04‑23 | PI‑NC‑A 2.1 | *Watch* |
-| Final Polished | 2025‑04‑24 | Spoken licence tag | *Watch* |
+| Final Polished | 2025‑04‑24 | PI‑NC‑A 2.1 (spoken) | *Watch* |
 
 ---
 
-## 5 │ Citation
+## 5 │ How to Cite
 
 ```bibtex
 @software{phantominterface_teeth_2025,
@@ -72,27 +62,27 @@ Combines SOC‑based tissue engineering, CRISPR stem‑cell scaffolding, and a *
   url     = {https://github.com/phatominterfac/teeth-that-will-not-fail},
   version = {3.1.0}
 }
-For other formats, see CITE.md or CITATION.cff.
+(See CITE.md & CITATION.cff for other formats.)
 
 6 │ Contributing
 
-We welcome non‑commercial, academic pull requests that enhance:
+We accept academic‑only pull requests that improve:
 
-📈 AI modules & digital‑twin analytics
-🔬 In‑vitro / in‑vivo validation data
+🔬 In‑vitro / in‑vivo validation data
+📈 Digital‑twin analytics & visualisation scripts
 📝 Documentation & translations
-Before submitting:
+Before posting:
 
-Sign CLA.md (binds your contribution to PI‑NC‑A 2.1).
-Follow CONTRIBUTING.md for style & PR checklist.
-Ensure compliance with EXPORT_CONTROL.md.
-7 │ Legal Notice (Plain English)
+Sign CLA.md.
+Follow CONTRIBUTING.md checklist.
+Confirm compliance with EXPORT_CONTROL.md.
+7 │ Legal Essentials (Plain English)
 
-Licence: Non‑commercial, attribution‑required; military use banned.
-Export: Swiss/EU/US dual‑use rules apply—screens all recipients.
-Jurisdiction: Any dispute → Zürich Commercial Court (see JURISDICTION.md).
-Warranty: Provided “AS IS.” No clinical approvals. See DISCLAIMER.md.
-Commercial licences or trademark queries → societyaccelerationist2127299@proton.me (PGP on request).
+Non‑commercial use only.
+Military & proprietary AI use banned.
+Export controls: Swiss / EU / US dual‑use rules apply.
+Venue: Any dispute → Zürich Commercial Court.
+No warranty; experimental research. (DISCLAIMER.md)
+Commercial‑licence or trademark enquiries → societyaccelerationist2127299@proton.me (PGP available).
 
-Advance the science—respect the licence.
-Together we end dental failure without compromising open research.
+Empower open science, respect the licence, and help end dental failure.
