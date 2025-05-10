@@ -1,95 +1,98 @@
-# Teeth That Grow Back: The 9-Gate Protocol That Ends Dental Failure  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15336594.svg)](https://doi.org/10.5281/zenodo.15336594)  
-**Author:** PhantomInterface Collective  
-**Version:** 3.0.0  
-**Released:** 2025-04-23  
-**License:** Non-Commercial Attribution License v2.0 ([LICENSE.md])
+# 🦷 The Teeth That Will Not Fail  
+**Nine‑Gate Regenerative Protocol v3.1.0**  
+© 2025 PhantomInterface Collective | DOI [10.5281/zenodo.15336594](https://doi.org/10.5281/zenodo.15336594)  
+Licence → **PhantomInterface Non‑Commercial Attribution v2.1** (`LICENSE.md`)
 
 ---
 
-## 📜 Abstract  
-A 9-phase protocol for biologically stable, proprioceptive dental regeneration. Resolves enamel irreversibility, immune microlensing, and post-eruption drift via closed-loop AI-driven oversight (Phase III digital twin). Omitting any module compromises overall integrity.
+## 1 │ Project Snapshot
+A rigorously engineered, **nine‑phase protocol** for proprioceptive, biologically stable tooth regeneration.  
+Combines SOC‑based tissue engineering, CRISPR stem‑cell scaffolding, and a **Phase III digital‑twin AI** to close the loop on enamel irreversibility, immune microlensing, and post‑eruption drift.
+
+> **Read first:** This repository is released **for non‑commercial, academic research only**.  
+> Commercial, military, or proprietary AI use is prohibited without a separate licence (see `NOTICE.md`).
 
 ---
 
-## 🔧 Protocol Workflow
+## 2 │ Quick Start
 
-1. **Prerequisites**  
-   - BSL-2+ molecular biology lab  
-   - 3D bioprinter capable of ≤ 10 µm resolution  
+| Step | Command / Action | Outcome |
+|------|------------------|---------|
+| **Clone** | `git clone https://github.com/phatominterfac/teeth-that-will-not-fail.git` | Local copy of the protocol |
+| **Read** | `protocol-formal.md` | Full math, reagents & parameters |
+| **Verify** | Gate‑by‑gate checklist inside `protocol-formal.md` | SEM / µCT / telemetry validation |
+| **Document** | Open a PR with data or optimisations | Community review & merge |
 
-2. **Implementation Steps**  
-   1. Clone this repo and review `protocol-formal.md` for reagents & parameters.  
-   2. Execute **Gate 1: Enamel Priming**, validate surface crystallization via SEM.  
-   3. Proceed through Gates 2–9, verifying each phase with µCT, perfusion assays, electrophysiology, and digital-twin telemetry.  
-   4. Document all results and share optimizations via pull request.
+**Prerequisites**
 
----
-
-## 🎬 Video Recordings  
-
-| Release            | Date       | License                                             | Link                                                                 |
-|--------------------|------------|-----------------------------------------------------|----------------------------------------------------------------------|
-| Initial Timestamp  | 2025-04-23 | NC-AT v2.0                                          | [Watch](https://youtu.be/SaER7-QNF-k?si=j2U4fI9aQ5yN7b4G)            |
-| Final Polished     | 2025-04-24 | NC-AT v2.0 (license spoken in this video)           | [Watch](https://youtu.be/Q6eS97JcMeI?si=A8Q7H8byG9MtQ7A_)            |
+- BSL‑2+ molecular‑biology suite  
+- 3‑D bioprinter (≤ 10 µm)  
+- µCT, electrophysiology, perfusion rigs  
+- GPU workstation for AI digital‑twin (Phase III)
 
 ---
 
-## 📂 Repository Contents  
+## 3 │ Repository Map
 
-| File                  | Description                                                     |
-|-----------------------|-----------------------------------------------------------------|
-| `protocol-formal.md`  | Full nine-phase scientific protocol (math & notation).         |
-| `monologue-spoken.md` | Spoken-word narrative of the protocol (for accessibility).      |
-| `CITATION.cff`        | Machine-readable citation metadata (for Zotero, Mendeley, etc.).|
-| `CITE.md`             | Quick-copy BibTeX block with DOI & version.                     |
-| `LICENSE.md`          | Non-Commercial Attribution License v2.0.                       |
-| `PATENTS.md`          | Defensive publication & patent-pending notice.                  |
-| `TRADEMARK.md`        | Trademark reservation & enforcement policy.                     |
-| `EXPORT_CONTROL.md`   | Export/re-export control notice (Swiss/EU/US).                  |
-| `SECURITY.md`         | Responsible vulnerability disclosure policy.                    |
-| `JURISDICTION.md`     | Governing law & exclusive venue (Zürich courts).                |
-| `CONTRIBUTING.md`     | Contribution guidelines & CLA requirements.                     |
-| `CLA.md`              | Contributor License Agreement.                                  |
-| `CODE_OF_CONDUCT.md`  | Community guidelines & conduct standards.                       |
-| `OVERVIEW.md`         | High-level summary of the 9-Gate modules.                       |
+| File | Purpose |
+|------|---------|
+| `protocol-formal.md` | Mathematical & lab‑grade protocol (all nine gates). |
+| `monologue-spoken.md` | Spoken‑word narrative for accessibility. |
+| `OVERVIEW.md` | Lay‑level technical summary. |
+| `NOTICE.md` | 60‑second legal & usage snapshot. |
+| `LICENSE.md` | PI‑NC‑A 2.1 full terms. |
+| `EXPORT_CONTROL.md` | Swiss / EU / US dual‑use compliance. |
+| `JURISDICTION.md` | Governing law = Swiss; venue = Zürich Commercial Court. |
+| `TRADEMARK.md` | Mark reservation & anti‑dilution policy. |
+| `PATENTS.md` | Defensive publication & patent‑pending notice. |
+| `SECURITY.md` | Responsible‑disclosure rules (PGP required). |
+| `CONTRIBUTING.md` + `CLA.md` | Contribution workflow & legal sign‑off. |
+| `CODE_OF_CONDUCT.md` | Community standards. |
+| `CITATION.cff` / `CITE.md` | Machine‑ & human‑readable citation info. |
 
 ---
 
-## 🔖 Citation  
+## 4 │ Videos
 
-Use this BibTeX or leverage [`CITATION.cff`](CITATION.cff):
+| Release | Date | Licence | Link |
+|---------|------|---------|------|
+| Timestamp Demo | 2025‑04‑23 | PI‑NC‑A 2.1 | *Watch* |
+| Final Polished | 2025‑04‑24 | Spoken licence tag | *Watch* |
+
+---
+
+## 5 │ Citation
 
 ```bibtex
-@software{PhantomInterface_Teeth_2025,
+@software{phantominterface_teeth_2025,
   author  = {PhantomInterface Collective},
-  title   = {Teeth That Grow Back: The 9-Gate Protocol That Ends Dental Failure},
+  title   = {Teeth That Will Not Fail: The Nine‑Gate Regenerative Protocol},
   year    = {2025},
   doi     = {10.5281/zenodo.15336594},
-  url     = {https://github.com/phantominterface/Teeth-That-Grow-Back-The-9-Gate-Protocol},
-  version = {3.0.0}
+  url     = {https://github.com/phatominterfac/teeth-that-will-not-fail},
+  version = {3.1.0}
 }
+For other formats, see CITE.md or CITATION.cff.
 
+6 │ Contributing
 
+We welcome non‑commercial, academic pull requests that enhance:
 
-⸻
+📈 AI modules & digital‑twin analytics
+🔬 In‑vitro / in‑vivo validation data
+📝 Documentation & translations
+Before submitting:
 
-🤝 Contributing
+Sign CLA.md (binds your contribution to PI‑NC‑A 2.1).
+Follow CONTRIBUTING.md for style & PR checklist.
+Ensure compliance with EXPORT_CONTROL.md.
+7 │ Legal Notice (Plain English)
 
-We welcome improvements in:
-	•	Code: AI models, digital-twin algorithms, data analysis scripts.
-	•	Experimental Data: Peer-reviewed in vitro/in vivo validation.
-	•	Documentation: Clarifications, translations, and accessibility enhancements.
+Licence: Non‑commercial, attribution‑required; military use banned.
+Export: Swiss/EU/US dual‑use rules apply—screens all recipients.
+Jurisdiction: Any dispute → Zürich Commercial Court (see JURISDICTION.md).
+Warranty: Provided “AS IS.” No clinical approvals. See DISCLAIMER.md.
+Commercial licences or trademark queries → societyaccelerationist2127299@proton.me (PGP on request).
 
-Before you begin:
-	1.	Sign the CLA.md.
-	2.	Follow CONTRIBUTING.md for pull-request conventions.
-
-Commercial inquiries: societyaccelerationist2127299@proton.me
-
-⸻
-
-⚠️ Disclaimer
-
-This protocol is experimental research and not approved for clinical use. Do not attempt human application without formal ethics approval and regulatory clearance. For details, see LICENSE.md and EXPORT_CONTROL.md.
-
+Advance the science—respect the licence.
+Together we end dental failure without compromising open research.
