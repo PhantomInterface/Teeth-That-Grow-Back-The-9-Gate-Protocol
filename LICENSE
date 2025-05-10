@@ -1,75 +1,146 @@
-# THE TEETH THAT WILL NOT FAIL  
-**Non‑Commercial Attribution License v2.0**  
-**Effective Date:** April 23, 2025  
-**© 2025 PhantomInterface Collective**  
+# THE TEETH THAT WILL NOT FAIL
+PhantomInterface Non‑Commercial Attribution License v2.1  
+(“PI‑NC‑A 2.1”)  
+Effective Date: 23 April 2025  
+© 2025 PhantomInterface Collective – All Rights Reserved
 
----
+────────────────────────────────────────────────────────
+0 │  QUICK SUMMARY  (not legally binding)
+   ─────────────────────────────────────────────────────
+   ▸ Free for research, education, or personal study.  
+   ▸ MUST credit us, keep this license, disclose any
+     changes, and stay non‑commercial.  
+   ▸ NO training proprietary AIs, NO product dev,
+     NO for‑profit consulting, NO military use.  
+   ▸ Commercial or military uses require a separate
+     paid license.  Breach = automatic termination +
+     heavy liquidated damages + injunctive relief.
 
-## 1. Definitions  
-- **“Work”**: All text, data, protocols, diagrams, code, and documentation in this repository.  
-- **“Non‑Commercial Use”**: Use for research, education, or personal study **without direct or indirect financial benefit** (e.g., no product development, internal R&D at for‑profit entities, or incorporation into proprietary algorithms).  
-- **“Academic Research Exception”**: Non‑Commercial Use by accredited non‑profit educational or research institutions, regardless of funding source, is permitted.  
-- **“Commercial Use”**: Any activity intended to generate revenue or reduce costs, including product development, clinical services, consulting, fundraising, or use in proprietary ML/data systems.  
-- **“Derivative”**: Any modification, adaptation, translation, or transformation of the Work, **including use as training data** for machine‑learning models.  
-- **“Proprietary Algorithms”**: Any software, model, or system whose internal logic is not fully disclosed to end users.
+1 │  DEFINITIONS
+   ─────────────────────────────────────────────────────
+   “Work” All text, data, protocols, diagrams, code,
+   models, and documentation in this repository and
+   any future official updates published by the
+   PhantomInterface Collective (“PIC”).
 
----
+   “Non‑Commercial Use” Use that is NOT intended to
+   generate, directly or indirectly, monetary or
+   strategic advantage, including internal cost
+   savings, market positioning, or fundraising.
 
-## 2. Grant of Rights  
-You may, under the terms below:  
-- **Reproduce** and **Distribute** the Work for **Non‑Commercial Use** (including the Academic Research Exception).  
-- **Adapt** or **Create Derivatives** of the Work for Non‑Commercial Use, provided you retain this license.  
+   “Academic Research Exception” Non‑Commercial Use
+   by accredited non‑profit degree‑granting or
+   government‑funded research institutions,
+   regardless of grant source.
 
-**Conditions**:  
-- Retain this license in all copies and substantial portions.  
-- Credit must read:  
-  > “Derived from ‘The Teeth That Will Not Fail’ by PhantomInterface Collective (2025), DOI: 10.5281/zenodo.15336594.”  
-- Include the DOI in both human‑readable documents and machine‑readable metadata.
+   “Commercial Use” Any activity intended for
+   revenue, cost saving, market advantage, or
+   incorporation into for‑profit workflows, products,
+   or services.  Includes internal R&D at for‑profit
+   entities, paid consulting, clinical services,
+   venture creation, licensing, and fundraising.
 
----
+   “Military Use” Any use by or for a defence or
+   intelligence organisation, including subcontractors
+   or dual‑use applications.
 
-## 3. Commercial Use  
-- **Prohibited** without a separate, written commercial license from PhantomInterface Collective (contact **societyaccelerationist2127299@proton.me**).  
-- **Reverse‑engineering** the Work, or using the Work to develop commercial products or integrate into proprietary algorithms, is explicitly forbidden.
+   “Derivative Work” Any modification, adaptation,
+   translation, aggregation, or transformation of the
+   Work, including (but not limited to) use as
+   training data or model weights for machine‑learning
+   systems.
 
----
+   “Proprietary Algorithm” Any software or model whose
+   source, architecture, or weights are not fully
+   disclosed, or whose outputs cannot be reproduced
+   from published information.
 
-## 4. Additional Restrictions  
-- **No Sublicensing**: You may not redistribute the Work under any different terms.  
-- **No Trademark Use**: The names “The Teeth That Will Not Fail” and “PhantomInterface” are reserved (see `TRADEMARK.md`).  
-- **No Patent License**: This license does not grant any patent rights; all patent claims are reserved (see `PATENTS.md`).  
+2 │  LICENSE  (GRANT OF RIGHTS)
+   ─────────────────────────────────────────────────────
+   Subject to Sections 3–9, PIC grants you a
+   non‑exclusive, worldwide, royalty‑free licence to:
 
----
+   ▸ Reproduce and distribute the unmodified Work for
+     Non‑Commercial Use.
 
-## 5. Termination & Remedies  
-- **Automatic Termination**: All rights granted under this license terminate immediately upon any breach.  
-- **Survival**: Sections 4–9 survive termination.  
-- **Liquidated Damages**: In lieu of actual damages, violators agree to pay **€100,000 per infringement**, or **actual damages** if greater, as a genuine pre‑estimate of harm.
+   ▸ Create and share Derivative Works for
+     Non‑Commercial Use, provided all of the following
+     are met:  
+       (i) you retain this licence in full;  
+       (ii) you clearly mark changes and date of
+            modification;  
+       (iii) you include prominent attribution:  
+             “Derived from ‘The Teeth That Will Not
+             Fail’ by PhantomInterface Collective
+             (2025), DOI 10.5281/zenodo.15336594”;  
+       (iv) you licence your Derivative Work under
+            PI‑NC‑A 2.1 or a later PIC‑approved
+            version—**no weaker terms.**
 
----
+3 │  PROHIBITED USES
+   ─────────────────────────────────────────────────────
+   ▸ **Commercial Use** without a separate written
+     licence from PIC.  
+   ▸ **Military Use** under any circumstance.  
+   ▸ Training, fine‑tuning, or benchmarking any
+     Proprietary Algorithm or closed‑weight ML system.  
+   ▸ Reverse‑engineering the Work to design
+     commercial, military, or proprietary systems.  
+   ▸ Sublicensing, re‑licensing, or releasing the
+     Work under different terms.  
+   ▸ Removing or obscuring copyright, licence, DOI,
+     or attribution notices.
 
-## 6. Disclaimer of Warranty & Liability  
-- **No Warranty**: The Work is provided “as‑is” without any express or implied warranty.  
-- **No Liability**: In no event shall the authors be liable for any damages, including lost profits, data loss, or any direct, indirect, incidental, or consequential damages.
+4 │  PATENTS & TRADEMARKS
+   ─────────────────────────────────────────────────────
+   No patent rights are granted; all patent claims are
+   expressly reserved.  “The Teeth That Will Not Fail,”
+   “PhantomInterface,” and related marks are reserved
+   (see `TRADEMARK.md`).
 
----
+5 │  AUDIT RIGHT
+   ─────────────────────────────────────────────────────
+   PIC or its designated auditor may, with 30 days’
+   notice, request written assurance of compliance.
+   Refusal or failure to provide reasonable proof
+   constitutes material breach.
 
-## 7. Governing Law & Jurisdiction  
-- **Governing Law**: Swiss substantive law.  
-- **Venue**: Exclusive jurisdiction of the courts of Zürich, Switzerland.
+6 │  TERMINATION & REMEDIES
+   ─────────────────────────────────────────────────────
+   ▸ Breach = automatic termination of all rights.  
+   ▸ Liquidated Damages (per § 163 OR Swiss Code of
+     Obligations):  
+       – **€250 000** per intentional commercial or
+         military infringement;  
+       – **€50 000** per negligent infringement;  
+       – plus actual damages if higher, and costs.  
+   ▸ PIC is entitled to injunctive relief in any
+     competent court to stop ongoing or imminent
+     breach.
 
----
+7 │  WARRANTY DISCLAIMER & LIMITATION OF LIABILITY
+   ─────────────────────────────────────────────────────
+   THE WORK IS PROVIDED “AS IS.”  NO WARRANTY, EXPRESS
+   OR IMPLIED.  PIC SHALL NOT BE LIABLE FOR ANY
+   DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR
+   CONSEQUENTIAL DAMAGES, EVEN IF ADVISED OF THE
+   POSSIBILITY.
 
-## 8. Export Controls  
-- Export or re‑export of the Work may require authorization under Swiss/EU dual‑use regulations (EC 428/2009). See `EXPORT_CONTROL.md` for details.
+8 │  GOVERNING LAW & VENUE
+   ─────────────────────────────────────────────────────
+   ▸ Governing Law: substantive law of Switzerland.  
+   ▸ Exclusive venue: courts of Zürich, Switzerland.  
+   ▸ Prevailing party in litigation recovers reasonable
+     attorneys’ fees and costs.
 
----
+9 │  EXPORT CONTROL
+   ─────────────────────────────────────────────────────
+   The Work may be subject to Swiss/EU dual‑use export
+   regulations (EC 428/2009).  See `EXPORT_CONTROL.md`.
 
-## 9. General Provisions  
-- **Entire Agreement**: This license, together with any separate written agreements, constitutes the complete understanding between you and PhantomInterface Collective.  
-- **Severability**: If any provision is held invalid, the remainder shall remain in full force and effect.  
-- **Updates**: Continued use after 30 days following any published changes implies acceptance of the new terms.
-
----
-
-**WARNING:** Unauthorized commercial exploitation of this Work may result in legal action under Swiss Unfair Competition laws, the EU Trade Secrets Directive, and other applicable statutes.  
+────────────────────────────────────────────────────────
+CONTINUED USE OF THE WORK AFTER 30 DAYS FROM ANY
+POSTED LICENCE UPDATE CONSTITUTES ACCEPTANCE OF THE
+NEW TERMS.  QUESTIONS OR COMMERCIAL ENQUIRIES:
+societyaccelerationist2127299@proton.me
+────────────────────────────────────────────────────────
