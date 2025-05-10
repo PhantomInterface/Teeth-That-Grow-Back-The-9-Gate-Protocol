@@ -1,6 +1,9 @@
 🦷 **Teeth That Will Not Fail**  
 Nine‑Gate Regenerative Protocol v 3.2.0    
 DOI © 2025 PhantomInterface Collective | Licence → PI‑NC‑A v 2.1  
+🦷 **Teeth That Will Not Fail** | Nine‑Gate Regenerative Stack v 3.2.0  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15336594.svg)](https://doi.org/10.5281/zenodo.15336594) © 2025 PhantomInterface Collective | Licence PI‑NC‑A v 2.1  
+
 
 > *Public extract of our critical‑state dentistry engine.  
 > Under‑the‑hood numerical solvers & compression kernels remain proprietary.*  
