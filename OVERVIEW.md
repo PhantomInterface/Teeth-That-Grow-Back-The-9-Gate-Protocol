@@ -1,34 +1,32 @@
-# OVERVIEW
+# Overview — Nine‑Gate Regenerative Protocol
+© 2025 PhantomInterface Collective | PI‑NC‑A v2.1  
 
-The 9‑Gate Protocol is a comprehensive, phased approach to engineering biologically stable, proprioceptive dental regeneration. Each module addresses a core failure mode in enamel, vascular, neural, and structural integration:
+The **Nine‑Gate Protocol** is a staged, closed‑loop system that converts
+lab‑grown dental tissue into a fully proprioceptive, lifelong tooth.  
+Each gate eliminates a specific failure mode; together they keep the system
+inside a self‑organised‑critical (SOC) stability corridor.
 
-1. **Enamel Priming**  
-   Establishes a nano‑textured surface to seed organized hydroxyapatite crystallization.
+| Gate | Core Objective | One‑line Outcome Metric |
+|------|----------------|-------------------------|
+| **1 Enamel Priming** | Nano‑texture + Wnt/BMP/FGF rhythm | > 150 µm organised enamel in 14 d |
+| **2 Temporal Sync**  | Shear‑entrained perfusion | Root angle ≤ 5° vs. canal |
+| **3 Gradient Relay** | Moving Wnt‑Shh‑BMP nexus | Cusps form on‑demand |
+| **4 Vascular Guard** | Perfusion with caspase‑9 kill‑switch | Fibrosis < 5 % |
+| **5 Early Detection** | Digital‑twin flags micro‑instability | Catastrophic loss < 0.5 % |
+| **6 Immune Microlens** | Macrophage re‑polarisation | TNF‑α < 50 pg mL⁻¹ |
+| **7 Load Coupling** | Piezo‑magneto PDL mesh | Bite‑force ≥ 500 N, no widening |
+| **8 Sensory Return** | Neuro‑trophic pulp corridor | Stim‑latency < 6 ms |
+| **9 Maturation Drift** | Smart mouth‑guard PBM loop | Hardness ≥ 3.5 GPa |
 
-2. **Dentin Scaffold**  
-   Deploys a biocompatible, resorbable matrix to guide odontoblast migration and tubule formation.
+### Closed‑Loop Oversight  
+Real‑time sensors feed a physics‑informed digital twin that auto‑retunes
+light, magnetic, shear and kill‑switch thresholds—locking the graft at  
+**K ≈ 1 criticality** (see *validation* link below).
 
-3. **Vascular Network Seeding**  
-   Introduces microvascular endothelial progenitors with caspase‑9 safety switch for robust perfusion.
+### Key Docs  
+* **`protocol-formal.md`** — lab‑grade detail + math notation  
+* **`monologue-spoken.md`** — narrated walk‑through  
+* **`validation/VALIDATION.md`** — *empirical proof* of critical stability 🔒
 
-4. **Neural Integration**  
-   Aligns trigeminal nerve fibers with growth‑factor gradients to restore sensory feedback.
-
-5. **Immune Microlensing**  
-   Utilizes engineered macrophage‑derived vesicles to modulate local inflammation and promote matrix remodeling.
-
-6. **Mechanotransduction Conditioning**  
-   Applies dynamic loading cycles to reinforce periodontal ligament alignment and bone remodeling.
-
-7. **Bioelectric Signaling**  
-   Implements micro‑electrode arrays to deliver patterned electrical cues that synchronize cell differentiation waves.
-
-8. **Genomic Stabilization**  
-   Employs transient CRISPR‑guided epigenetic modulation to lock in regenerative gene expression profiles.
-
-9. **Closed‑Loop Digital Twin Oversight**  
-   Integrates real‑time sensors and AI monitoring to adjust environmental parameters, ensuring consistent SOC‑driven growth stability (<0.5% failure).
-
----
-
-Each gate is both **necessary and synergistic**—omitting any phase compromises overall integrity. For full methodology, see `protocol-formal.md`, and for an accessible narrative, see `monologue-spoken.md`.
+> Omit any gate → integrity collapses.  
+> All nine = teeth that grow back, feel, and last.
