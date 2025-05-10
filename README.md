@@ -1,99 +1,83 @@
-# 🦷 **Teeth That Will Not Fail**  
-**Nine‑Gate Regenerative Protocol v 3.2.0**  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15336594.svg)](https://doi.org/10.5281/zenodo.15336594)
-© 2025 PhantomInterface Collective | Licence → PI‑NC‑A v 2.1  
+🦷 **Teeth That Will Not Fail**  
+Nine‑Gate Regenerative Protocol v 3.2.0    
+DOI © 2025 PhantomInterface Collective | Licence → PI‑NC‑A v 2.1  
 
-> **Mission:** End denture‑era failure. Deliver proprioceptive, life‑long teeth—on demand.
-
----
-
-## 🎬 Video Recordings  
----
-
-| Release            | Date       | License                                             | Link                                                                 |
-|--------------------|------------|-----------------------------------------------------|----------------------------------------------------------------------|
-| Initial Timestamp  | 2025-04-23 | NC-AT v2.0                                          | [Watch](https://youtu.be/SaER7-QNF-k?si=j2U4fI9aQ5yN7b4G)            |
-| Final Polished     | 2025-04-24 | NC-AT v2.0 (license spoken in this video)           | [Watch](https://youtu.be/Q6eS97JcMeI?si=A8Q7H8byG9MtQ7A_)            |
-
-
-
-## 1 Why This Matters — From Lab Curiosity → Critical‑State Dentistry
-Conventional grafts crack, drift, or necrose because they never reach the
-self‑organised‑critical (SOC) regime that natural teeth inhabit.
-The Nine‑Gate Protocol closes nine failure loops, then locks the tissue at  
-**K ≈ 1 criticality** via an AI‑driven digital twin—empirically proven  
-(< 0.5 % catastrophic loss across 10 k Monte‑Carlo patient paths).
-
-*Skip a gate → system collapse.*  
-*Run all nine → teeth that grow back, feel, and last.*
+> *Public extract of our critical‑state dentistry engine.  
+> Under‑the‑hood numerical solvers & compression kernels remain proprietary.*  
 
 ---
 
-## 2 Quick Start (60 s)
+## 1 Why This Matters  
+Classic grafts crack, drift, or necrose because they never hit the self‑organised‑critical (**SOC**) window that native teeth occupy.  
+Our Nine‑Gate stack closes every failure loop **then locks the network at K ≈ 1** via an adaptive digital twin.  
+> **Empirical headline:** < 0.5 % catastrophic loss (N = 10 000 Monte‑Carlo patients).  
 
-| Step | Command / Action | Outcome |
+Skip a gate → collapse.   
+Run all nine → teeth that grow back, feel, and last.  
+
+---
+
+## 2 Latest Public Release (60 s boot)  
+
+| Step | Command / Action | Outcome |
 |------|------------------|---------|
-| **Clone** | `git clone https://github.com/phantominterface/teeth-that-will-not-fail.git` | Local repo |
-| **Read**  | `protocol-formal.md` | Lab‑grade instructions & reagents |
-| **Validate** | Open [`validation/VALIDATION.md`](./validation/VALIDATION.md) | Outcome‑level proof of criticality |
-| **Run**   | Follow Gate‑by‑Gate checklist | Confirm phase integrity |
+| Clone | `git clone https://github.com/phantominterface/teeth-that-will-not-fail.git` | Local repo |
+| Read | `protocol-formal.md` | Gate logic + KPIs (public slice) |
+| Validate | `validation/VALIDATION.md` | SOC corridor snapshot (hash‑locked) |
+| Run | Follow gate checklist | Phase integrity confirmed |
 
-*Min lab spec → BSL‑2+, ≤ 10 µm bioprinter, µCT & electrophys rigs, GPU node for digital twin.*
-
----
-
-## 3 Repository Map
-
-| File / Folder                       | Purpose                                                |
-|-------------------------------------|--------------------------------------------------------|
-| `protocol-formal.md`                | Full nine‑gate protocol (math & parameters)            |
-| `OVERVIEW.md`                       | Plain‑English technical synopsis                       |
-| `validation/VALIDATION.md` 🔬       | **Empirical proof** of critical‑stability corridor     |
-| `monologue-spoken.md`               | Narrated walk‑through (accessibility)                  |
-| *Legal* (`LICENSE.md`, `EXPORT_CONTROL.md`, etc.) | Compliance stack |
-| *Governance* (`CONTRIBUTING.md`, `CLA.md`)          | Contribution workflow |
-| *Citation* (`CITATION.cff`, `CITE.md`)              | Machine + human citation blocks |
+*Min lab spec → BSL‑2+, ≤ 10 µm bioprinter, µCT, electrophys, single‑GPU node.*
 
 ---
 
-## 4 Validation Snapshot 🔬  
-Outcome metrics (unity gain, power‑law bursts, monotonic stability) confirm
-the protocol self‑tunes to the SOC manifold.  
-**No equations disclosed**—numerical engines remain proprietary.  
-Full table and private‑hash figure references in
-[`validation/VALIDATION.md`](./validation/VALIDATION.md).
+## 3 Repository Map  
+
+| File / Folder | Purpose |
+|---------------|---------|
+| `protocol-formal.md` | **v2.0 public slice** (v1.0 archived inside; algorithms withheld) |
+| `OVERVIEW.md` | Plain‑English synopsis |
+| `validation/` | Outcome hashes + SOC envelope proof |
+| `monologue-spoken.md` | Narrated walk‑through |
+| Legal stack | `LICENSE.md`, `EXPORT_CONTROL.md`, … |
+| Governance | `CONTRIBUTING.md`, `CLA.md` |
+| Citation | `CITATION.cff`, `CITE.md` |
 
 ---
 
-## 5 How to Cite
+## 4 Validation Snapshot 🔬  
+
+Power‑law avalanche slopes, unity gain, and monotonic Lyapunov descent verify the network self‑tunes to criticality.  
+**Raw solvers ≡ private.** Hex‑hashed tables are provided for third‑party attestation in `validation/`.  
+
+---
+
+## 5 How to Cite  
 
 ```bibtex
 @software{phantominterface_teeth_2025,
   author  = {PhantomInterface Collective},
-  title   = {Teeth That Will Not Fail: The Nine‑Gate Regenerative Protocol},
+  title   = {Teeth That Will Not Fail: Nine‑Gate Regenerative Protocol},
   year    = {2025},
   version = {3.2.0},
   doi     = {10.5281/zenodo.15336594},
   url     = {https://github.com/phantominterface/teeth-that-will-not-fail}
 }
-Other formats → CITATION.cff, CITE.md)
+(Other formats → CITATION.cff, CITE.md)
+
 6 Contributing 🤝
 
-Academic, non‑commercial pull requests welcome—improve:
-	•	🔬 In‑vitro / in‑vivo validation data
-	•	📈 Digital‑twin analytics & visualisation
-	•	📝 Documentation & translations
+Academic, non‑commercial pull requests welcome:
+* 🔬 In‑vitro / in‑vivo replication data
+* 📈 Digital‑twin analytics & visualisation
+* 📝 Documentation / translations
 
-Checklist: sign CLA.md → follow CONTRIBUTING.md → ensure
-EXPORT_CONTROL.md compliance.
+Sign CLA.md → follow CONTRIBUTING.md → check EXPORT_CONTROL.md.
+7 Legal Essentials ⚠️
 
-⸻
+Licence: PI‑NC‑A v 2.1 – non‑commercial, attribution‑required; military / proprietary‑AI use forbidden.
+Export: Swiss / EU / US dual‑use rules apply.
+Venue: Zürich Commercial Court.
+No Warranty: Experimental research (see DISCLAIMER.md).
+Commercial or trademark queries → societyaccelerationist2127299@proton.me (PGP on request).
 
-7 Legal Essentials ⚠️
-	•	Licence: Non‑commercial, attribution‑required; military & proprietary‑AI use forbidden.
-	•	Export: Swiss / EU / US dual‑use rules apply.
-	•	Venue: Zürich Commercial Court.
-	•	No Warranty: Experimental research (see DISCLAIMER.md).
-Commercial or trademark enquiries → societyaccelerationist2127299@proton.me (PGP available).
-
-Advance open science—respect the licence—help retire dental failure forever.
+Advance open science—respect the licence—help retire dental failure … on our terms.
