@@ -1,5 +1,7 @@
 © 2025 phantominterface. Licensed for non-commercial use under the Non-Commercial Attribution License v1.0.
 
+Move protocol-formal.md to archive/v1.0  
+
 # THE TEETH THAT WILL NOT FAIL  
 ### A Nine-Module Field-Correction Protocol for Dental Regeneration  
 Author: phantominterface | Date: 2025-04-23  
