@@ -7,6 +7,16 @@
 
 ---
 
+## 🎬 Video Recordings  
+---
+
+| Release            | Date       | License                                             | Link                                                                 |
+|--------------------|------------|-----------------------------------------------------|----------------------------------------------------------------------|
+| Initial Timestamp  | 2025-04-23 | NC-AT v2.0                                          | [Watch](https://youtu.be/SaER7-QNF-k?si=j2U4fI9aQ5yN7b4G)            |
+| Final Polished     | 2025-04-24 | NC-AT v2.0 (license spoken in this video)           | [Watch](https://youtu.be/Q6eS97JcMeI?si=A8Q7H8byG9MtQ7A_)            |
+
+
+
 ## 1 Why This Matters — From Lab Curiosity → Critical‑State Dentistry
 Conventional grafts crack, drift, or necrose because they never reach the
 self‑organised‑critical (SOC) regime that natural teeth inhabit.
